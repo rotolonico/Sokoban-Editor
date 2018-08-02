@@ -1,6 +1,9 @@
 # Sokoban-Editor
 ## by Domenico Rotolo
 
+### Play Here
+https://rotolonico.github.io/Sokoban-Editor/index.html
+
 ### How to play
 
 #### Blocks
